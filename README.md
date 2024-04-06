@@ -13,6 +13,15 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using Gemini!
 
+## best practices when writing prompts
+To improve your success with Gemini for Google Workspace, follow some basic best practices when writing prompts telling Gemini what to do. 
+
+- Use natural language
+- Be clear and concise
+- Provide context
+- Use specific and relevant keywords
+- Break down complex tasks into separate prompts
+
 ## Copilot
 ### Create study plan (official example)
 
