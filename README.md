@@ -13,6 +13,7 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using Gemini!
 
+## Content
 - [best practices when writing prompts](#best-practices-when-writing-prompts)
 - [Copilot](#copilot)
   - [Create study plan (official example)](#create-study-plan-official-example)
