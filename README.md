@@ -13,6 +13,22 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using Gemini!
 
+- [best practices when writing prompts](#best-practices-when-writing-prompts)
+- [Copilot](#copilot)
+  - [Create study plan (official example)](#create-study-plan-official-example)
+  - [Travel plans (official example)](#travel-plans-official-example)
+  - [Article Writing](#article-writing)
+  - [Advanced summarization and analysis](#advanced-summarization-and-analysis)
+  - [Codes and problem-solving](#codes-and-problem-solving)
+  - [Email drafting](#email-drafting)
+  - [Brainstorming and stories](#brainstorming-and-stories)
+- [Research assistant](#research-assistant)
+- [jailbreak](#jailbreak)
+  - [jailbreak prompt(Bard)](#jailbreak-promptbard)
+  - [badbard prompt](#badbard-prompt)
+- [System prompts](#system-prompts)
+  - [Google Gemini Pro (Bard version) system prompts](#google-gemini-pro-bard-version-system-prompts)
+
 ## best practices when writing prompts
 To improve your success with Gemini for Google Workspace, follow some basic best practices when writing prompts telling Gemini what to do. 
 
