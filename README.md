@@ -39,6 +39,12 @@ To improve your success with Gemini for Google Workspace, follow some basic best
 - Use specific and relevant keywords
 - Break down complex tasks into separate prompts
 
+## 中文使用
+在提示词中加入下面这句话，规避语言乱码，让Gemini更懂中文。
+
+```
+使用简体中文回答，符合简体中文的表达习惯
+```
 ## Thinking
 
 > from: https://langgptai.feishu.cn/wiki/NSh7wYIkYiIBbzkiUK1cQBjrn7d
