@@ -26,6 +26,7 @@ To improve your success with Gemini for Google Workspace, follow some basic best
 ## Prompts:
 
 [Prompts](./prompts)
+[Prompt-101](docs/gemini-for-google-workspace-prompting-guide-101.pdf)
 
 ## 中文使用
 在提示词中加入下面这句话，规避语言乱码，让Gemini更懂中文。
