@@ -14,6 +14,13 @@ To get started, simply clone this repository and use the prompts in the README.m
 We hope you find these prompts useful and have fun using Gemini!
 
 
+## 2026-11 Update: Gemini 4
+
+- **Gemini 4 family**: Gemini 4 Carbon and Gemini 4 Argon are the frontier models for deep, long-horizon reasoning; **Gemini 4 Hydrogen** (Nov 12, 2026, `gemini-4-hydrogen`) is the fast everyday model for coding and agentic workflows and replaces Gemini 3.8 Flash ([Google blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)).
+- **Thinking levels** on Hydrogen are `low`, `medium`, `high` (default) and the new `xhigh`; pick the level per task instead of writing "think step by step". Pricing is flat across the 1M-token window, so long context no longer costs more per token.
+- **Orchestration**: in Antigravity, Carbon can coordinate while Hydrogen runs worker and verifier agents — write the coordinator prompt around goals and acceptance criteria, and keep worker prompts short and specific.
+- **Deep Research agent**: `deep-research-preview-04-2026` / `deep-research-max-preview-04-2026`, Interactions API only, run with `background=True`; set `collaborative_planning: True` to review the plan before research starts ([docs](https://aistudio.google.com/docs/deep-research)).
+
 ## 2026 Update: Gemini 3 & thinking models
 
 - Gemini 3 Pro (Nov 2025) and the Gemini 3.x series are "reasoning-first" models with a Deep Think mode; the classic advice below still applies, but for hard tasks describe the **goal and acceptance criteria** instead of spelling out step-by-step reasoning, keep few-shot examples minimal, and put long material first with the instruction restated at the end.
